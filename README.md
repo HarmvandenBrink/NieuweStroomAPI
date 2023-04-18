@@ -9,6 +9,8 @@ Just run: python3 nieuwestroom.py
 
 The code fetches the needed x-api-key header from the main.*.js file, and uses it in the API request.
 
+You can edit the dates in the code, to fetch prices from other dates.
+
 
 # Disclaimer
 
