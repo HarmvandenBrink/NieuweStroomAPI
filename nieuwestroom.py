@@ -49,4 +49,4 @@ if script_element:
         print("Could not find the x-api-key in the JavaScript file.")
 
 else:
-    print("Could not find the script element with main.*.js.")
+    print("Could not find the script element with main.*.js.") 
